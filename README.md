@@ -28,6 +28,8 @@ Before running the project, make sure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SimeonValchev/Simple-Wallet-API.git
+   ```
+   ```bash
    cd simple-wallet-api\wallet
    
 2. **Install the dependencies**:
